@@ -1,0 +1,14 @@
+*.o
+*.out
+memory_benchmark
+*.exe
+*.a
+*.so
+.vscode/
+.idea/
+*.csv
+*.png
+*.jpg
+*.pdf
+__pycache__/
+*.pyc
